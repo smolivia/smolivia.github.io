@@ -1,0 +1,32 @@
+* {
+    font-family: 'PT Mono', monospace;
+    background-color: #F1E0C5;
+    color: #71816D;
+}
+
+nav ul {
+    list-style-type: none;
+    position: absolute;
+    top: 0%;
+    border: #71816D dotted 3px;
+    width: 200px;
+}
+
+h1 {
+    width: 600px;
+    margin: 20px auto;
+}
+
+.project-holder {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.project {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border: #71816D solid 3px;
+    border-radius: 3px;
+    margin: 0 5px;
+}
