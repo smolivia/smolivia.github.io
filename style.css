@@ -18,7 +18,7 @@ h1 {
 }
 
 .project-holder {
-    width: 600px;
+    width: 400px;
     margin: 0 auto;
 }
 
@@ -28,5 +28,5 @@ h1 {
     height: 150px;
     border: #71816D solid 3px;
     border-radius: 3px;
-    margin: 0 5px;
+    margin: 10px 5px;
 }
